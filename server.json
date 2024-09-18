@@ -15,6 +15,14 @@
       "category": "Alimentação",
       "price": 50,
       "createdAt": "2024-09-18T11:06:20.094Z"
+    },
+    {
+      "id": 3,
+      "description": "Curso React",
+      "type": "outcome",
+      "category": "Educação",
+      "price": 1997,
+      "createdAt": "2024-09-18T11:06:20.094Z"
     }
   ]
 }
