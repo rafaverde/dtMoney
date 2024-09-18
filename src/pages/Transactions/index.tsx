@@ -44,7 +44,7 @@ export function Transactions() {
               <tr key={transaction.id}>
                 <td width="50%">{transaction.description}</td>
                 <td width="25%">
-                  <PriceHighlight variant={transaction.type}>
+                  <PriceHighlight $variant={transaction.type}>
                     {`R$ ${transaction.price.toFixed(2).replace(".", ",")}`}
                   </PriceHighlight>
                 </td>
