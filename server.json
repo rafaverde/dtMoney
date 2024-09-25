@@ -23,6 +23,22 @@
       "category": "Educação",
       "price": 1997,
       "createdAt": "2024-09-18T11:06:20.094Z"
+    },
+    {
+      "description": "Site Institucional",
+      "category": "Freelance",
+      "price": 4000,
+      "type": "income",
+      "createdAt": "2024-09-25T10:50:38.507Z",
+      "id": 4
+    },
+    {
+      "description": "Pastel",
+      "category": "Alimentação",
+      "price": 4,
+      "type": "outcome",
+      "createdAt": "2024-09-25T11:25:07.996Z",
+      "id": 5
     }
   ]
 }
